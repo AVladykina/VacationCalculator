@@ -19,7 +19,6 @@ The application provides RESTful endpoints to interact with the vacation calcula
 * Spring Boot
 * Maven
 * Logback for logging
-* 
 ### Project Description
 
 The Vacation Calculator project is a Spring Boot application designed to calculate vacation days based on provided criteria. Below is a brief description of the main classes in the project:
